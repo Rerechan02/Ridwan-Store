@@ -55,3 +55,9 @@ apt update && apt upgrade -y --fix-missing && update-grub && sleep 2 && apt -y i
 ```
 coming soon by Rerechan02
 ```
+
+# Source Code
+* Zip Via Gdrive
+```
+https://drive.google.com/file/d/1w9Xciq5-7wJ-LnB16dPznj-fBmZtsBFv/view?usp=drivesdk
+```
