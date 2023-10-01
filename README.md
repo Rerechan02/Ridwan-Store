@@ -34,3 +34,24 @@ BadVPN 2                : 7200
 BadVPN 3                : 7300
 Proxy Squid             : 3128
 ```
+
+# Install
+
+* Root VPS
+```
+sudo -i
+```
+Or
+```
+sudo su
+```
+
+* Tahap 1
+```
+apt update && apt upgrade -y --fix-missing && update-grub && sleep 2 && apt -y install xxd && apt install -y bzip2 && apt install -y wget && apt install -y curl && reboot
+```
+
+* Tahap 2
+```
+coming soon by Rerechan02
+```
